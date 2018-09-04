@@ -39,6 +39,7 @@ Arduino IDE와 Arduino Uno 2대를 사용하여 UART와 I2C 통신을 하는것
     SCLK의 Alternative Names 는 SCK, CLK이고 Serial Clock(단순 동기화 신호, 통신 Clock) 기능을 한다.
 
 # Arduino Uno connection
+![spi](https://user-images.githubusercontent.com/38156821/45010177-17026680-b047-11e8-962b-74693b7e0253.jpeg)
 
 
 # I2C 통신
