@@ -10,8 +10,8 @@ Arduino IDE와 Arduino Uno 2대를 사용하여 UART와 I2C 통신을 하는것
     
 # Arduino Uno connection
     
-    ![uart](https://user-images.githubusercontent.com/38156821/45004275-4bb1f600-b026-11e8-9294-ece85b2f261f.jpeg)
-    사진과 같이 송신하는 Uno에 TX를 연결하고 수신받는 Uno에 RX를 연결을 하고 서로 GND를 연결해준다.
+   ![uart](https://user-images.githubusercontent.com/38156821/45004275-4bb1f600-b026-11e8-9294-ece85b2f261f.jpeg)
+   사진과 같이 송신하는 Uno에 TX를 연결하고 수신받는 Uno에 RX를 연결을 하고 서로 GND를 연결해준다.
     
 # UART RX측에서 에러 발생시
 
@@ -34,4 +34,4 @@ Arduino IDE와 Arduino Uno 2대를 사용하여 UART와 I2C 통신을 하는것
 
 # Arduino Uno connection
 
-    ![i2c](https://user-images.githubusercontent.com/38156821/45004276-4f457d00-b026-11e8-866a-9aba1586b468.jpeg)
+   ![i2c](https://user-images.githubusercontent.com/38156821/45004276-4f457d00-b026-11e8-866a-9aba1586b468.jpeg)
